@@ -62,7 +62,7 @@ This project aims to predict laptop prices based on various features using machi
 ├── models
 │   ├── laptop_price_model.pkl # Trained model
 ├── notebooks
-│   ├── laptop_price_predictor.ipynb # Data preprocessing and exploration, Model                   training and evaluation
+│   ├── laptop_price_predictor.ipynb # Data preprocessing and exploration, Model training and evaluation
 ├── app.py                  # Streamlit app
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
