@@ -9,10 +9,6 @@ This project aims to predict laptop prices based on various features using machi
 - **Data Visualization**: Displays insights and trends from the dataset.
 - **Deployed on Streamlit Cloud**: Accessible from any device with an internet connection.
 
-## Demo
-
-Check out the live demo [here](#).
-
 ## Table of Contents
 
 - [Installation](#installation)
@@ -64,10 +60,10 @@ Check out the live demo [here](#).
 ├── data
 │   ├── laptops.csv         # Dataset
 ├── models
-│   ├── laptop_price_model.pkl # Trained model
+│   ├── model.pkl # Trained model
+│   ├── pipe.pkl  # trained pipeline model
 ├── notebooks
-│   ├── data_preprocessing.ipynb # Data preprocessing and exploration
-│   ├── model_training.ipynb     # Model training and evaluation
+│   ├── laptop_price_predictor.ipynb # Data preprocessing and exploration, Model training and evaluation
 ├── app.py                  # Streamlit app
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
@@ -103,7 +99,7 @@ The model is trained using features like brand, processor type, RAM size, etc. T
 - Hyperparameter tuning
 - Model evaluation
 
-Refer to the `notebooks/model_training.ipynb` for detailed steps.
+Refer to the `notebooks/laptop price predictor.ipynb` for detailed steps.
 
 ## Deployment
 
