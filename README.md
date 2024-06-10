@@ -7,7 +7,7 @@ This project aims to predict laptop prices based on various features using machi
 - **Interactive UI**: User-friendly interface to input laptop specifications.
 - **Machine Learning Model**: Predicts the price based on the given features.
 - **Data Visualization**: Displays insights and trends from the dataset.
-- **Deployed on Streamlit Cloud**: Accessible from any device with an internet connection.
+- **Deployed on Streamlit Cloud**: Accessible only through localhost.
 
 ## Table of Contents
 
@@ -24,8 +24,8 @@ This project aims to predict laptop prices based on various features using machi
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/laptop-price-prediction.git
-   cd laptop-price-prediction
+   git clone https://github.com/chetan-patil7/Laptop_price_predictor.git
+   cd Laptop_price_predictor
    ```
 
 2. **Create a virtual environment:**
