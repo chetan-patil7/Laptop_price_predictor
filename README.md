@@ -135,11 +135,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any inquiries or issues, please contact [chetansk978@gmail.com](mailto:chetansk978.com).
-
----
-
-Thank you for using the Laptop Price Prediction app! We hope it helps you make informed decisions about laptop purchases.
-
----
-
-This README.md file provides a comprehensive guide to setting up, using, and contributing to the Laptop Price Prediction project. Feel free to modify it to better fit your project's specifics and requirements.
